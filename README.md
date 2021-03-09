@@ -76,7 +76,7 @@ ArgoCD에 의 배포 되도록 준비하였습니다.
 당시 팀 내 Agile 기반 프로젝트 수행 도입이 활발하여 첫 프로젝트로 선정되어 
 기획/개발/디자인이 모두 참여한 스크럼 단위 개발을 수행하였습니다.
 
-#### 프로젝트 : 프로모션 레거시 기능 개선
+#### *프로젝트 : 프로모션 레거시 기능 개선*
 ##### 기간
 - 2021.02 ~ NOW
 ##### 개발
@@ -87,7 +87,7 @@ ArgoCD에 의 배포 되도록 준비하였습니다.
 - Lettuce Redis Cache를 이용하여 메타데이터 캐시
 
 
-주요기술 #Spring Framework #Tomcat 9 #Apache #Redis #MSSQL
+주요기술 `#Spring Framework` `#Tomcat 9` `#Apache` `#Redis` `#MSSQL`
 
 ### 프로필
 
@@ -105,7 +105,7 @@ ArgoCD에 의 배포 되도록 준비하였습니다.
 Spring Batch를 이용하여 Chunk단위 마이그레이션 툴 개발하였고, 
 Jenkins의 Pipeline을 연동하여 업무 효율화하였습니다.
 
-주요기술 #Spring Framework #Tomcat #Aerospike #Spring Batch #Apache Ignite Cache #ELK
+주요기술 `#Spring Framework` `#Tomcat` `#Aerospike` `#Spring Batch` `#Apache Ignite Cache` `#ELK`
 
 ### 세그먼트/태그
 
