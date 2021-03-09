@@ -4,7 +4,7 @@
 - Github : https://github.com/mettlekc
 
 # 경력
-##### [Netmarble](http://www.netmarble.com)
+### [Netmarble](http://www.netmarble.com)
 14/02/03 ~ 현재
 - 기술전략 TFT (14/02/03 ~ 14/07/30)
 - 모바일 QA (14/08/01 ~ 15/08/02)
@@ -12,11 +12,11 @@
 - 백앤드 서버 개발
 
 
-##### (Internship) SK플래닛 ADF 4기
+### (Internship) SK플래닛 ADF 4기
 - 2012/07/02 ~ 2012/08/31
 - 모바일 애플리케이션 개발
 
-##### (Internship) Ahnlab APC QA 
+### (Internship) Ahnlab APC QA 
 - 근무기간 : 2010.06.01 ~ 2010.12.31
 - QA
 
