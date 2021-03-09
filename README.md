@@ -20,7 +20,7 @@
 `Java` `Javascript` `Groovy`
 
 ### Framework 
-`Spring` `Framework`
+`Spring Framework`
 
 ### Server
 `Apache` `Nginx` `Tomcat`
