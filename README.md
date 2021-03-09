@@ -12,13 +12,7 @@
 - 백앤드 서버 개발
 
 
-### (Internship) SK플래닛 ADF 4기
-- 2012/07/02 ~ 2012/08/31
-- 모바일 애플리케이션 개발
 
-### (Internship) Ahnlab APC QA 
-- 근무기간 : 2010.06.01 ~ 2010.12.31
-- QA
 
 
 # 보유기술 (관심분야)
@@ -144,7 +138,19 @@ Google Bigdata로 데이터를 이관하여 처리하였습니다. 현재 플랫
 `#Spring Boot` `#Crate.io` `#Apache Spark` `#Google Bigtable` `#Kafka` `#Grafana`
 
 # 활동
-- 사내 개발 직군 지원 홍보영상 인터뷰
-- 그 외 AWS, GCP 교육 이수
+
+###### AWS, GCP 교육 이수
+
+##### (Internship) SK플래닛 ADF 4기
+- 2012/07/02 ~ 2012/08/31
+- 모바일 애플리케이션 개발
+
+##### (Internship) Ahnlab APC QA 
+- 근무기간 : 2010.06.01 ~ 2010.12.31
+- QA
+
+
+
+
 
 
